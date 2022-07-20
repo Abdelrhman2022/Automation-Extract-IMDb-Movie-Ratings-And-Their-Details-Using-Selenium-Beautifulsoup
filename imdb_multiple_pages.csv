@@ -7,21 +7,21 @@ Goodfellas,1990,145 min,"Biography, Crime, Drama",8.7
 Jurassic Park,1993,127 min,"Action, Adventure, Sci-Fi",8.2
 The Shawshank Redemption,1994,142 min,Drama,9.3
 Avengers: Endgame,2019,181 min,"Action, Adventure, Drama",8.4
-Dune: Part One,2021,155 min,"Action, Adventure, Drama",8.0
+Dune: Part One,2021,155 min,"Action, Adventure, Drama",8
 The Wolf of Wall Street,2013,180 min,"Biography, Comedy, Crime",8.2
-The Dark Knight,2008,152 min,"Action, Crime, Drama",9.0
+The Dark Knight,2008,152 min,"Action, Crime, Drama",9
 Titanic,1997,194 min,"Drama, Romance",7.9
 Interstellar,2014,169 min,"Adventure, Drama, Sci-Fi",8.6
 The Talented Mr. Ripley,1999,139 min,"Crime, Drama, Thriller",7.4
 Inception,2010,148 min,"Action, Adventure, Sci-Fi",8.8
 Free Guy,2021,115 min,"Action, Adventure, Comedy",7.1
 Se7en,1995,127 min,"Crime, Drama, Mystery",8.6
-CODA,2021,111 min,"Comedy, Drama, Music",8.0
+CODA,2021,111 min,"Comedy, Drama, Music",8
 Harry Potter and the Sorcerer's Stone,2001,152 min,"Adventure, Family, Fantasy",7.6
 Avengers: Infinity War,2018,149 min,"Action, Adventure, Sci-Fi",8.4
 The Lord of the Rings: The Fellowship of the Ring,2001,178 min,"Action, Adventure, Drama",8.8
 Licorice Pizza,2021,133 min,"Comedy, Drama, Romance",7.3
-Guardians of the Galaxy,2014,121 min,"Action, Adventure, Comedy",8.0
+Guardians of the Galaxy,2014,121 min,"Action, Adventure, Comedy",8
 Pulp Fiction,1994,154 min,"Crime, Drama",8.9
 Whiplash,2014,106 min,"Drama, Music",8.5
 Bohemian Rhapsody,2018,134 min,"Biography, Drama, Music",7.9
@@ -29,9 +29,9 @@ Don't Look Up,2021,138 min,"Comedy, Drama, Sci-Fi",7.2
 Encanto,2021,102 min,"Animation, Comedy, Family",7.2
 Fight Club,1999,139 min,Drama,8.8
 Forrest Gump,1994,142 min,"Drama, Romance",8.8
-Independence Day,1996,145 min,"Action, Adventure, Sci-Fi",7.0
+Independence Day,1996,145 min,"Action, Adventure, Sci-Fi",7
 Doctor Strange,2016,115 min,"Action, Adventure, Fantasy",7.5
-Blade Runner 2049,2017,164 min,"Action, Drama, Mystery",8.0
+Blade Runner 2049,2017,164 min,"Action, Drama, Mystery",8
 Avatar,2009,162 min,"Action, Adventure, Fantasy",7.8
 Gisaengchung,2019,132 min,"Comedy, Drama, Thriller",8.5
 Wanted,2008,110 min,"Action, Crime, Thriller",6.7
@@ -42,7 +42,7 @@ Boogie Nights,1997,155 min,Drama,7.9
 Shang-Chi and the Legend of the Ten Rings,2021,132 min,"Action, Adventure, Fantasy",7.4
 Jojo Rabbit,2019,108 min,"Comedy, Drama, War",7.9
 Mad Max: Fury Road,2015,120 min,"Action, Adventure, Sci-Fi",8.1
-Nightmare Alley,2021,150 min,"Crime, Drama, Thriller",7.0
+Nightmare Alley,2021,150 min,"Crime, Drama, Thriller",7
 Knives Out,2019,130 min,"Comedy, Crime, Drama",7.9
 The Departed,2006,151 min,"Crime, Drama, Thriller",8.5
 Pirates of the Caribbean: The Curse of the Black Pearl,2003,143 min,"Action, Adventure, Fantasy",8.1
@@ -54,14 +54,14 @@ Star Wars: Episode I - The Phantom Menace,1999,136 min,"Action, Adventure, Fanta
 Catch Me If You Can,2002,141 min,"Biography, Crime, Drama",8.1
 Inglourious Basterds,2009,153 min,"Adventure, Drama, War",8.3
 Requiem for a Dream,2000,102 min,Drama,8.3
-Schindler's List,1993,195 min,"Biography, Drama, History",9.0
+Schindler's List,1993,195 min,"Biography, Drama, History",9
 Guardians of the Galaxy Vol. 2,2017,136 min,"Action, Adventure, Comedy",7.6
 West Side Story,2021,156 min,"Crime, Drama, Musical",7.2
 Black Panther,2018,134 min,"Action, Adventure, Sci-Fi",7.3
 Spider-Man,2002,121 min,"Action, Adventure, Sci-Fi",7.4
-Black Swan,2010,108 min,"Drama, Thriller",8.0
-The Avengers,2012,143 min,"Action, Adventure, Sci-Fi",8.0
-The Lord of the Rings: The Return of the King,2003,201 min,"Action, Adventure, Drama",9.0
+Black Swan,2010,108 min,"Drama, Thriller",8
+The Avengers,2012,143 min,"Action, Adventure, Sci-Fi",8
+The Lord of the Rings: The Return of the King,2003,201 min,"Action, Adventure, Drama",9
 Gone Girl,2014,149 min,"Drama, Mystery, Thriller",8.1
 Minority Report,2002,145 min,"Action, Crime, Mystery",7.7
 Django Unchained,2012,165 min,"Drama, Western",8.4
@@ -119,11 +119,11 @@ Hacksaw Ridge,2016,139 min,"Biography, Drama, History",8.1
 Lone Survivor,2013,121 min,"Action, Biography, Drama",7.5
 The Phantom of the Opera,2004,143 min,"Drama, Musical, Romance",7.2
 The Fifth Element,1997,126 min,"Action, Adventure, Sci-Fi",7.6
-Transformers,2007,144 min,"Action, Adventure, Sci-Fi",7.0
+Transformers,2007,144 min,"Action, Adventure, Sci-Fi",7
 Rocketman,2019,121 min,"Biography, Drama, Musical",7.3
 Baby Driver,2017,113 min,"Action, Crime, Drama",7.6
 Casino,1995,178 min,"Crime, Drama",8.2
-Prometheus,2012,124 min,"Adventure, Mystery, Sci-Fi",7.0
+Prometheus,2012,124 min,"Adventure, Mystery, Sci-Fi",7
 The Lion King,1994,88 min,"Animation, Adventure, Drama",8.5
 Memento,2000,113 min,"Mystery, Thriller",8.4
 Sleepers,1996,147 min,"Crime, Drama, Thriller",7.5
@@ -135,7 +135,7 @@ Home Alone,1990,103 min,"Comedy, Family",7.7
 Sen to Chihiro no kamikakushi,2001,125 min,"Animation, Adventure, Family",8.6
 The Truman Show,1998,103 min,"Comedy, Drama",8.2
 Pearl Harbor,2001,183 min,"Action, Drama, History",6.2
-The Revenant,2015,156 min,"Action, Adventure, Drama",8.0
+The Revenant,2015,156 min,"Action, Adventure, Drama",8
 Star Wars: Episode VII - The Force Awakens,2015,138 min,"Action, Adventure, Sci-Fi",7.8
 Logan,2017,137 min,"Action, Drama, Sci-Fi",8.1
 Cruella,2021,134 min,"Adventure, Comedy, Crime",7.3
@@ -163,18 +163,18 @@ The Hobbit: An Unexpected Journey,2012,169 min,"Adventure, Fantasy",7.8
 Batman Forever,1995,121 min,"Action, Adventure",5.4
 Collateral,2004,120 min,"Action, Crime, Drama",7.5
 Ratatouille,2007,111 min,"Animation, Adventure, Comedy",8.1
-Her,2013,126 min,"Drama, Romance, Sci-Fi",8.0
+Her,2013,126 min,"Drama, Romance, Sci-Fi",8
 A Beautiful Mind,2001,135 min,"Biography, Drama",8.2
-La La Land,2016,128 min,"Comedy, Drama, Music",8.0
+La La Land,2016,128 min,"Comedy, Drama, Music",8
 The Hateful Eight,2015,168 min,"Crime, Drama, Mystery",7.8
-The Martian,2015,144 min,"Adventure, Drama, Sci-Fi",8.0
+The Martian,2015,144 min,"Adventure, Drama, Sci-Fi",8
 The Fugitive,1993,130 min,"Action, Crime, Drama",7.8
 Big Hero 6,2014,102 min,"Animation, Action, Adventure",7.8
 Romeo + Juliet,1996,120 min,"Drama, Romance",6.7
 Despicable Me 2,2013,98 min,"Animation, Adventure, Comedy",7.3
 The Devil Wears Prada,2006,109 min,"Comedy, Drama",6.9
 Jagten,2012,115 min,Drama,8.3
-Zootopia,2016,108 min,"Animation, Adventure, Comedy",8.0
+Zootopia,2016,108 min,"Animation, Adventure, Comedy",8
 There Will Be Blood,2007,158 min,Drama,8.2
 Nightcrawler,2014,117 min,"Crime, Drama, Thriller",7.8
 The Curious Case of Benjamin Button,2008,166 min,"Drama, Fantasy, Romance",7.8
@@ -183,16 +183,16 @@ Black Hawk Down,2001,144 min,"Action, Drama, History",7.7
 Solo: A Star Wars Story,2018,135 min,"Action, Adventure, Sci-Fi",6.9
 The Mask,1994,101 min,"Action, Comedy, Crime",6.9
 Harry Potter and the Deathly Hallows: Part 1,2010,146 min,"Adventure, Family, Fantasy",7.7
-Basic Instinct,1992,127 min,"Drama, Mystery, Thriller",7.0
+Basic Instinct,1992,127 min,"Drama, Mystery, Thriller",7
 Interview with the Vampire: The Vampire Chronicles,1994,123 min,"Drama, Fantasy, Horror",7.5
 American Hustle,2013,138 min,"Crime, Drama",7.2
 Harry Potter and the Deathly Hallows: Part 2,2011,130 min,"Adventure, Fantasy, Mystery",8.1
-The Incredibles,2004,115 min,"Animation, Action, Adventure",8.0
+The Incredibles,2004,115 min,"Animation, Action, Adventure",8
 Fargo,1996,98 min,"Crime, Thriller",8.1
 Captain Fantastic,2016,118 min,"Comedy, Drama",7.8
 Spectre,2015,148 min,"Action, Adventure, Thriller",6.8
 Nocturnal Animals,2016,116 min,"Drama, Thriller",7.5
-The Imitation Game,2014,114 min,"Biography, Drama, Thriller",8.0
+The Imitation Game,2014,114 min,"Biography, Drama, Thriller",8
 Moulin Rouge!,2001,127 min,"Drama, Musical, Romance",7.6
 Mulholland Dr.,2001,147 min,"Drama, Mystery, Thriller",7.9
 Moneyball,2011,133 min,"Biography, Drama, Sport",7.6
@@ -208,7 +208,7 @@ Apocalypto,2006,139 min,"Action, Adventure, Drama",7.8
 Edward Scissorhands,1990,105 min,"Drama, Fantasy, Romance",7.9
 Into the Wild,2007,148 min,"Adventure, Biography, Drama",8.1
 Jerry Maguire,1996,139 min,"Comedy, Drama, Romance",7.3
-Tropic Thunder,2008,107 min,"Action, Comedy, War",7.0
+Tropic Thunder,2008,107 min,"Action, Comedy, War",7
 A Few Good Men,1992,138 min,"Drama, Thriller",7.7
 Pirates of the Caribbean: Dead Man's Chest,2006,151 min,"Action, Adventure, Fantasy",7.3
 Iron Man Three,2013,130 min,"Action, Adventure, Sci-Fi",7.1
@@ -260,7 +260,7 @@ A Star Is Born,2018,136 min,"Drama, Music, Romance",7.6
 Sherlock Holmes,2009,128 min,"Action, Adventure, Mystery",7.6
 The Girl with the Dragon Tattoo,2011,158 min,"Crime, Drama, Mystery",7.8
 Flight,2012,138 min,"Drama, Thriller",7.3
-Magnolia,1999,188 min,Drama,8.0
+Magnolia,1999,188 min,Drama,8
 Shrek,2001,90 min,"Animation, Adventure, Comedy",7.9
 Jackie Brown,1997,154 min,"Crime, Drama, Thriller",7.5
 Inside Out,2015,95 min,"Animation, Adventure, Comedy",8.2
@@ -272,9 +272,9 @@ Molly's Game,2017,140 min,"Biography, Crime, Drama",7.4
 Pirates of the Caribbean: At World's End,2007,169 min,"Action, Adventure, Fantasy",7.1
 Coco,2017,105 min,"Animation, Adventure, Comedy",8.4
 Men in Black,1997,98 min,"Action, Adventure, Comedy",7.3
-Passengers,2016,116 min,"Drama, Romance, Sci-Fi",7.0
+Passengers,2016,116 min,"Drama, Romance, Sci-Fi",7
 Toy Story 4,2019,100 min,"Animation, Adventure, Comedy",7.7
-Soul,2020,100 min,"Animation, Adventure, Comedy",8.0
+Soul,2020,100 min,"Animation, Adventure, Comedy",8
 A Beautiful Day in the Neighborhood,2019,109 min,"Biography, Drama",7.2
 Lo imposible,2012,114 min,"Adventure, Drama, History",7.5
 What's Eating Gilbert Grape,1993,118 min,Drama,7.7
@@ -298,7 +298,7 @@ Cold Mountain,2003,154 min,"Adventure, Drama, History",7.2
 Closer,2004,104 min,"Drama, Romance",7.2
 Donnie Brasco,1997,127 min,"Biography, Crime, Drama",7.7
 12 Years a Slave,2013,134 min,"Biography, Drama, History",8.1
-Star Trek Beyond,2016,122 min,"Action, Adventure, Sci-Fi",7.0
+Star Trek Beyond,2016,122 min,"Action, Adventure, Sci-Fi",7
 Tangled,2010,100 min,"Animation, Adventure, Comedy",7.7
 Sexy Beast,2000,89 min,"Crime, Drama, Thriller",7.3
 The Hobbit: The Desolation of Smaug,2013,161 min,"Adventure, Fantasy",7.8
@@ -314,11 +314,11 @@ Richard Jewell,2019,131 min,"Biography, Crime, Drama",7.5
 True Grit,2010,110 min,"Drama, Western",7.6
 Incendies,2010,131 min,"Drama, Mystery",8.3
 King Kong,2005,187 min,"Action, Adventure, Drama",7.2
-Big Fish,2003,125 min,"Adventure, Drama, Fantasy",8.0
+Big Fish,2003,125 min,"Adventure, Drama, Fantasy",8
 Love and Monsters,2020,109 min,"Action, Adventure, Comedy",6.9
 Austin Powers: The Spy Who Shagged Me,1999,95 min,"Action, Adventure, Comedy",6.6
 The Last Samurai,2003,154 min,"Action, Drama",7.8
-The Pursuit of Happyness,2006,117 min,"Biography, Drama",8.0
+The Pursuit of Happyness,2006,117 min,"Biography, Drama",8
 Midnight in Paris,2011,94 min,"Comedy, Fantasy, Romance",7.7
 How to Train Your Dragon,2010,98 min,"Animation, Action, Adventure",8.1
 Training Day,2001,122 min,"Action, Crime, Drama",7.7
@@ -334,7 +334,7 @@ Lost in Translation,2003,102 min,"Comedy, Drama",7.7
 Incredibles 2,2018,118 min,"Animation, Action, Adventure",7.6
 Cinderella,2015,105 min,"Adventure, Drama, Family",6.9
 Wonder,2017,113 min,"Drama, Family",7.9
-Aladdin,1992,90 min,"Animation, Adventure, Comedy",8.0
+Aladdin,1992,90 min,"Animation, Adventure, Comedy",8
 Cape Fear,1991,128 min,"Crime, Thriller",7.3
 The Wrestler,2008,109 min,"Drama, Sport",7.9
 Bombshell,2019,109 min,"Biography, Drama",6.8
@@ -360,7 +360,7 @@ Con Air,1997,115 min,"Action, Crime, Thriller",6.9
 The Mask of Zorro,1998,136 min,"Action, Adventure, Comedy",6.8
 The Hurt Locker,2008,131 min,"Drama, Thriller, War",7.5
 The Favourite,2018,119 min,"Biography, Comedy, Drama",7.5
-Beauty and the Beast,1991,84 min,"Animation, Family, Fantasy",8.0
+Beauty and the Beast,1991,84 min,"Animation, Family, Fantasy",8
 Sleepless in Seattle,1993,105 min,"Comedy, Drama, Romance",6.8
 Vanilla Sky,2001,136 min,"Fantasy, Mystery, Romance",6.9
 Gravity,2013,91 min,"Action, Drama, Sci-Fi",7.7
@@ -375,18 +375,18 @@ Bridge of Spies,2015,142 min,"Drama, History, Thriller",7.6
 Gangs of New York,2002,167 min,"Crime, Drama",7.5
 Mulan,1998,88 min,"Animation, Adventure, Comedy",7.6
 Life of Pi,2012,127 min,"Adventure, Drama, Fantasy",7.9
-Blood Diamond,2006,143 min,"Adventure, Drama, Thriller",8.0
+Blood Diamond,2006,143 min,"Adventure, Drama, Thriller",8
 Moonlight,2016,111 min,Drama,7.4
 Moonrise Kingdom,2012,94 min,"Comedy, Drama, Romance",7.8
 Apollo 13,1995,140 min,"Adventure, Drama, History",7.7
-Twelve Monkeys,1995,129 min,"Mystery, Sci-Fi, Thriller",8.0
+Twelve Monkeys,1995,129 min,"Mystery, Sci-Fi, Thriller",8
 Legends of the Fall,1994,133 min,"Drama, Romance, War",7.5
 Coraline,2009,100 min,"Animation, Drama, Family",7.7
 Star Trek Into Darkness,2013,132 min,"Action, Adventure, Sci-Fi",7.7
 Revolutionary Road,2008,119 min,"Drama, Romance",7.3
 Eurovision Song Contest: The Story of Fire Saga,2020,123 min,"Comedy, Musical",6.5
 Erin Brockovich,2000,131 min,"Biography, Drama",7.4
-Scent of a Woman,1992,156 min,Drama,8.0
+Scent of a Woman,1992,156 min,Drama,8
 The Emperor's New Groove,2000,78 min,"Animation, Adventure, Comedy",7.4
 Frozen II,2019,103 min,"Animation, Adventure, Comedy",6.8
 Boyz n the Hood,1991,112 min,"Crime, Drama",7.8
@@ -396,7 +396,7 @@ Blue Valentine,2010,112 min,"Drama, Romance",7.4
 Transformers: Dark of the Moon,2011,154 min,"Action, Adventure, Sci-Fi",6.2
 Sleepy Hollow,1999,105 min,"Fantasy, Horror, Mystery",7.3
 Into the Woods,2014,125 min,"Adventure, Comedy, Drama",5.9
-Slumdog Millionaire,2008,120 min,"Crime, Drama, Romance",8.0
+Slumdog Millionaire,2008,120 min,"Crime, Drama, Romance",8
 The Hobbit: The Battle of the Five Armies,2014,144 min,"Adventure, Fantasy",7.4
 Snow White and the Huntsman,2012,127 min,"Action, Adventure, Drama",6.1
 The Passion of the Christ,2004,127 min,Drama,7.2
@@ -407,7 +407,7 @@ Little Children,2006,137 min,"Drama, Romance",7.5
 Wreck-It Ralph,2012,101 min,"Animation, Adventure, Comedy",7.7
 Tarzan,1999,88 min,"Animation, Adventure, Comedy",7.3
 Ice Age,2002,81 min,"Animation, Adventure, Comedy",7.5
-JFK,1991,189 min,"Drama, History, Thriller",8.0
+JFK,1991,189 min,"Drama, History, Thriller",8
 Manchester by the Sea,2016,137 min,Drama,7.8
 Crash,2004,112 min,"Crime, Drama, Thriller",7.8
 Enchanted,2007,107 min,"Animation, Adventure, Comedy",7.1
@@ -420,14 +420,14 @@ Gone Baby Gone,2007,114 min,"Crime, Drama, Mystery",7.6
 Fantastic Mr. Fox,2009,87 min,"Animation, Adventure, Comedy",7.9
 The Master,2012,138 min,Drama,7.1
 The Trial of the Chicago 7,2020,129 min,"Drama, History, Thriller",7.7
-Greyhound,2020,91 min,"Action, Drama, History",7.0
+Greyhound,2020,91 min,"Action, Drama, History",7
 The Hunt for Red October,1990,135 min,"Action, Adventure, Thriller",7.6
 The Lone Ranger,2013,150 min,"Action, Adventure, Western",6.4
-Lion,2016,118 min,"Biography, Drama",8.0
+Lion,2016,118 min,"Biography, Drama",8
 Darkest Hour,2017,125 min,"Biography, Drama, War",7.4
-Dances with Wolves,1990,181 min,"Adventure, Drama, Western",8.0
+Dances with Wolves,1990,181 min,"Adventure, Drama, Western",8
 "O Brother, Where Art Thou?",2000,107 min,"Adventure, Comedy, Crime",7.7
-Pieces of a Woman,2020,126 min,Drama,7.0
+Pieces of a Woman,2020,126 min,Drama,7
 District 9,2009,112 min,"Action, Sci-Fi, Thriller",7.9
 The Disaster Artist,2017,104 min,"Biography, Comedy, Drama",7.3
 Brave,2012,93 min,"Animation, Adventure, Comedy",7.1
@@ -441,7 +441,7 @@ BlacKkKlansman,2018,135 min,"Biography, Comedy, Crime",7.5
 The New World,2005,135 min,"Biography, Drama, History",6.7
 Chicago,2002,113 min,"Comedy, Crime, Musical",7.2
 Silence,2016,161 min,"Drama, History",7.1
-Days of Thunder,1990,107 min,"Action, Drama, Sport",6.0
+Days of Thunder,1990,107 min,"Action, Drama, Sport",6
 Leaving Las Vegas,1995,111 min,"Drama, Romance",7.5
 How to Train Your Dragon: The Hidden World,2019,104 min,"Animation, Action, Adventure",7.4
 Judas and the Black Messiah,2021,126 min,"Biography, Drama, History",7.4
@@ -453,8 +453,8 @@ The Piano,1993,121 min,"Drama, Music, Romance",7.5
 Treasure Planet,2002,95 min,"Animation, Adventure, Family",7.1
 As Good as It Gets,1997,139 min,"Comedy, Drama, Romance",7.7
 Lincoln,2012,150 min,"Biography, Drama, History",7.3
-Real Steel,2011,127 min,"Action, Drama, Sci-Fi",7.0
-"Quo vadis, Aida?",2020,101 min,"Drama, History, War",8.0
+Real Steel,2011,127 min,"Action, Drama, Sci-Fi",7
+"Quo vadis, Aida?",2020,101 min,"Drama, History, War",8
 First Man,2018,141 min,"Biography, Drama, History",7.3
 Across the Universe,2007,133 min,"Drama, Fantasy, History",7.3
 The Square,2017,151 min,"Comedy, Drama",7.2
@@ -472,7 +472,7 @@ The Bodyguard,1992,129 min,"Action, Drama, Music",6.3
 Begin Again,2013,104 min,"Comedy, Drama, Music",7.4
 A River Runs Through It,1992,123 min,Drama,7.2
 The Descendants,2011,115 min,"Comedy, Drama",7.3
-Meet the Parents,2000,108 min,"Comedy, Romance",7.0
+Meet the Parents,2000,108 min,"Comedy, Romance",7
 Anna Karenina,2012,129 min,"Drama, Romance",6.6
 The Theory of Everything,2014,123 min,"Biography, Drama, Romance",7.7
 127 Hours,2010,94 min,"Biography, Drama",7.6
@@ -480,7 +480,7 @@ Before Sunset,2004,80 min,"Drama, Romance",8.1
 Deepwater Horizon,2016,107 min,"Action, Drama, History",7.1
 The Florida Project,2017,111 min,Drama,7.6
 The Royal Tenenbaums,2001,110 min,"Comedy, Drama",7.6
-Hellboy II: The Golden Army,2008,120 min,"Action, Adventure, Fantasy",7.0
+Hellboy II: The Golden Army,2008,120 min,"Action, Adventure, Fantasy",7
 Ferdinand,2017,108 min,"Animation, Adventure, Comedy",6.7
 The Lego Movie,2014,100 min,"Animation, Action, Adventure",7.7
 Being the Ricardos,2021,131 min,"Biography, Drama",6.5
@@ -490,17 +490,17 @@ Four Weddings and a Funeral,1994,117 min,"Comedy, Drama, Romance",7.1
 A.I. Artificial Intelligence,2001,146 min,"Drama, Sci-Fi",7.2
 My Big Fat Greek Wedding,2002,95 min,"Comedy, Drama, Romance",6.6
 Cyrano,2021,123 min,"Drama, Musical, Romance",6.3
-Out of Sight,1998,123 min,"Comedy, Crime, Drama",7.0
+Out of Sight,1998,123 min,"Comedy, Crime, Drama",7
 "I, Robot",2004,115 min,"Action, Mystery, Sci-Fi",7.1
 Chocolat,2000,121 min,"Drama, Romance",7.3
 Fried Green Tomatoes,1991,130 min,Drama,7.7
 Before Midnight,2013,109 min,"Drama, Romance",7.9
 Being John Malkovich,1999,113 min,"Comedy, Drama, Fantasy",7.8
 Wild at Heart,1990,125 min,"Comedy, Crime, Drama",7.2
-Tinker Tailor Soldier Spy,2011,127 min,"Drama, Mystery, Thriller",7.0
+Tinker Tailor Soldier Spy,2011,127 min,"Drama, Mystery, Thriller",7
 The Age of Innocence,1993,139 min,"Drama, Romance",7.2
 Match Point,2005,124 min,"Drama, Romance, Thriller",7.6
-Ralph Breaks the Internet,2018,112 min,"Animation, Adventure, Comedy",7.0
+Ralph Breaks the Internet,2018,112 min,"Animation, Adventure, Comedy",7
 Click,2006,107 min,"Comedy, Drama, Fantasy",6.4
 Superman Returns,2006,154 min,"Action, Adventure, Sci-Fi",6.1
 L'amant,1992,115 min,"Biography, Drama, Romance",6.8
@@ -514,18 +514,18 @@ Dawn of the Planet of the Apes,2014,130 min,"Action, Adventure, Drama",7.6
 Rio,2011,96 min,"Animation, Adventure, Comedy",6.9
 Rise of the Planet of the Apes,2011,105 min,"Action, Drama, Sci-Fi",7.6
 Isle of Dogs,2018,101 min,"Animation, Adventure, Comedy",7.8
-The King's Speech,2010,118 min,"Biography, Drama, History",8.0
+The King's Speech,2010,118 min,"Biography, Drama, History",8
 The Perfect Storm,2000,130 min,"Action, Adventure, Drama",6.4
 City Slickers,1991,113 min,"Comedy, Western",6.8
 The Prince of Egypt,1998,99 min,"Animation, Adventure, Drama",7.1
 Sideways,2004,127 min,"Comedy, Drama, Romance",7.5
 Anastasia,1997,94 min,"Animation, Adventure, Drama",7.1
 Traffic,2000,147 min,"Crime, Drama, Thriller",7.6
-Maverick,1994,127 min,"Action, Adventure, Comedy",7.0
+Maverick,1994,127 min,"Action, Adventure, Comedy",7
 Fences,2016,139 min,Drama,7.2
 A History of Violence,2005,96 min,"Action, Crime, Drama",7.4
 Pleasantville,1998,124 min,"Comedy, Drama, Fantasy",7.5
-The Bourne Ultimatum,2007,115 min,"Action, Mystery, Thriller",8.0
+The Bourne Ultimatum,2007,115 min,"Action, Mystery, Thriller",8
 The Post,2017,116 min,Drama,7.2
 Adaptation.,2002,115 min,"Comedy, Drama",7.7
 Animal Kingdom,2010,113 min,"Crime, Drama",7.3
@@ -538,7 +538,7 @@ The People vs. Larry Flynt,1996,130 min,"Biography, Drama",7.3
 Life,1999,108 min,"Comedy, Crime, Drama",6.7
 News of the World,2020,118 min,"Action, Adventure, Drama",6.8
 Elizabeth,1998,124 min,"Biography, Drama, History",7.4
-Foxcatcher,2014,134 min,"Biography, Drama, History",7.0
+Foxcatcher,2014,134 min,"Biography, Drama, History",7
 Pocahontas,1995,81 min,"Animation, Adventure, Drama",6.7
 Maleficent: Mistress of Evil,2019,119 min,"Adventure, Family, Fantasy",6.6
 Sabrina,1995,127 min,"Comedy, Drama, Romance",6.3
@@ -562,18 +562,18 @@ Eastern Promises,2007,100 min,"Crime, Drama, Thriller",7.6
 Inside Llewyn Davis,2013,104 min,"Comedy, Drama, Music",7.4
 "Hail, Caesar!",2016,106 min,"Comedy, Drama, Mystery",6.3
 Under Siege,1992,103 min,"Action, Thriller",6.5
-The Hunchback of Notre Dame,1996,91 min,"Animation, Drama, Family",7.0
+The Hunchback of Notre Dame,1996,91 min,"Animation, Drama, Family",7
 Brooklyn,2015,117 min,"Drama, Romance",7.5
 A Series of Unfortunate Events,2004,108 min,"Adventure, Comedy, Family",6.8
 Shakespeare in Love,1998,123 min,"Comedy, Drama, History",7.1
-Gräns,2018,110 min,"Crime, Drama, Fantasy",7.0
+Gräns,2018,110 min,"Crime, Drama, Fantasy",7
 Amistad,1997,155 min,"Biography, Drama, History",7.3
 Ghost World,2001,111 min,"Comedy, Drama",7.3
 The Judge,2014,141 min,"Crime, Drama",7.4
 Happy Feet,2006,108 min,"Animation, Adventure, Comedy",6.4
 In the Line of Fire,1993,128 min,"Action, Crime, Drama",7.2
 Monster's Ball,2001,111 min,"Drama, Romance",7.1
-Sling Blade,1996,135 min,Drama,8.0
+Sling Blade,1996,135 min,Drama,8
 Election,1999,103 min,"Comedy, Romance",7.3
 The Illusionist,2006,110 min,"Drama, Fantasy, Mystery",7.6
 How the Grinch Stole Christmas,2000,104 min,"Comedy, Family, Fantasy",6.2
@@ -590,7 +590,7 @@ In the Name of the Father,1993,133 min,"Biography, Crime, Drama",8.1
 Hotel Rwanda,2004,121 min,"Biography, Drama, History",8.1
 Billy Elliot,2000,110 min,"Drama, Music",7.7
 The Good Shepherd,2006,167 min,"Drama, History, Thriller",6.7
-Shark Tale,2004,90 min,"Animation, Adventure, Comedy",6.0
+Shark Tale,2004,90 min,"Animation, Adventure, Comedy",6
 Trolls,2016,92 min,"Animation, Adventure, Comedy",6.4
 Winter's Bone,2010,100 min,"Drama, Mystery",7.1
 Christopher Robin,2018,104 min,"Adventure, Comedy, Drama",7.2
@@ -643,20 +643,20 @@ Ray,2004,152 min,"Biography, Drama, Music",7.7
 The Remains of the Day,1993,134 min,"Drama, Romance",7.8
 Short Cuts,1993,188 min,"Comedy, Drama",7.7
 The Imaginarium of Doctor Parnassus,2009,123 min,"Adventure, Comedy, Fantasy",6.8
-Stuart Little,1999,84 min,"Adventure, Comedy, Family",6.0
+Stuart Little,1999,84 min,"Adventure, Comedy, Family",6
 Klaus,2019,96 min,"Animation, Adventure, Comedy",8.1
 Monster House,2006,91 min,"Animation, Comedy, Family",6.6
 Crazy Heart,2009,112 min,"Drama, Music, Romance",7.2
 21 Grams,2003,124 min,"Crime, Drama, Thriller",7.7
 Notes on a Scandal,2006,92 min,"Crime, Drama, Romance",7.4
-Charlie Wilson's War,2007,102 min,"Biography, Comedy, Drama",7.0
+Charlie Wilson's War,2007,102 min,"Biography, Comedy, Drama",7
 Malcolm X,1992,202 min,"Biography, Drama, History",7.7
 Kaze tachinu,2013,126 min,"Animation, Biography, Drama",7.7
 Star Trek: First Contact,1996,111 min,"Action, Adventure, Drama",7.6
 Chaplin,1992,143 min,"Biography, Comedy, Drama",7.5
-Cinderella Man,2005,144 min,"Biography, Drama, Romance",8.0
+Cinderella Man,2005,144 min,"Biography, Drama, Romance",8
 Judy,2019,118 min,"Biography, Drama, Romance",6.8
-Julie & Julia,2009,123 min,"Biography, Drama, Romance",7.0
+Julie & Julia,2009,123 min,"Biography, Drama, Romance",7
 Star Trek VI: The Undiscovered Country,1991,110 min,"Action, Adventure, Sci-Fi",7.2
 Young Guns II,1990,104 min,"Action, Western",6.5
 The Full Monty,1997,91 min,"Comedy, Drama",7.2
@@ -669,7 +669,7 @@ War Horse,2011,146 min,"Action, Adventure, Drama",7.2
 An Education,2009,100 min,Drama,7.3
 Da 5 Bloods,2020,154 min,"Adventure, Drama, War",6.5
 Extremely Loud & Incredibly Close,2011,129 min,"Adventure, Drama, Mystery",6.9
-A Serious Man,2009,106 min,"Comedy, Drama",7.0
+A Serious Man,2009,106 min,"Comedy, Drama",7
 Girl with a Pearl Earring,2003,100 min,"Biography, Drama, Romance",6.9
 The Ides of March,2011,101 min,"Drama, Thriller",7.1
 Lust och fägring stor,1995,130 min,"Drama, Romance, War",6.9
@@ -678,7 +678,7 @@ The American President,1995,114 min,"Comedy, Drama, Romance",6.8
 The Cider House Rules,1999,126 min,"Drama, Romance",7.4
 All the Money in the World,2017,132 min,"Biography, Crime, Drama",6.8
 Doubt,2008,104 min,"Drama, Mystery",7.5
-Rabbit Hole,2010,91 min,Drama,7.0
+Rabbit Hole,2010,91 min,Drama,7
 The Muppets,2011,120 min,"Adventure, Comedy, Family",7.1
 The Wolfman,2010,103 min,"Drama, Fantasy, Horror",5.8
 Mudbound,2017,134 min,"Drama, War",7.4
@@ -698,8 +698,8 @@ The Commitments,1991,118 min,"Comedy, Drama, Music",7.6
 The Queen,2006,103 min,"Biography, Drama",7.3
 Spirit: Stallion of the Cimarron,2002,83 min,"Animation, Adventure, Drama",7.1
 Precious,2009,110 min,Drama,7.3
-The Straight Story,1999,112 min,"Biography, Drama",8.0
-Secrets & Lies,1996,136 min,"Comedy, Drama",8.0
+The Straight Story,1999,112 min,"Biography, Drama",8
+Secrets & Lies,1996,136 min,"Comedy, Drama",8
 Velvet Goldmine,1998,118 min,"Drama, Music",6.9
 Bicentennial Man,1999,132 min,"Comedy, Drama, Sci-Fi",6.9
 Florence Foster Jenkins,2016,111 min,"Biography, Comedy, Drama",6.8
@@ -729,7 +729,7 @@ Bugsy,1991,136 min,"Biography, Crime, Drama",6.8
 Dirty Pretty Things,2002,97 min,"Crime, Drama, Thriller",7.3
 Once,2007,86 min,"Drama, Music, Romance",7.8
 "Roman J. Israel, Esq.",2017,122 min,"Crime, Drama, Thriller",6.5
-The Kids Are All Right,2010,106 min,"Comedy, Drama, Romance",7.0
+The Kids Are All Right,2010,106 min,"Comedy, Drama, Romance",7
 The Sessions,2012,95 min,"Biography, Comedy, Drama",7.2
 I Am Sam,2001,132 min,Drama,7.6
 The Two Popes,2019,125 min,"Biography, Comedy, Drama",7.6
@@ -741,14 +741,14 @@ Henry & June,1990,136 min,"Biography, Drama",6.3
 The Field,1990,107 min,"Drama, Thriller",7.3
 Flatliners,1990,115 min,"Drama, Horror, Sci-Fi",6.5
 Ali,2001,157 min,"Biography, Drama, Sport",6.7
-Loving,2016,123 min,"Biography, Drama, Romance",7.0
+Loving,2016,123 min,"Biography, Drama, Romance",7
 The Curse of the Were-Rabbit,2005,85 min,"Animation, Adventure, Comedy",7.5
 Over the Moon,2020,95 min,"Animation, Adventure, Comedy",6.3
 North Country,2005,126 min,Drama,7.3
 DragonHeart,1996,103 min,"Action, Adventure, Fantasy",6.4
 Letters from Iwo Jima,2006,141 min,"Action, Adventure, Drama",7.9
 Hamlet,1996,242 min,Drama,7.8
-WolfWalkers,2020,103 min,"Animation, Adventure, Family",8.0
+WolfWalkers,2020,103 min,"Animation, Adventure, Family",8
 Anonymous,2011,130 min,"Drama, Thriller",6.8
 20th Century Women,2016,119 min,"Comedy, Drama",7.3
 Don Juan DeMarco,1994,97 min,"Comedy, Drama, Romance",6.7
@@ -757,7 +757,7 @@ Fearless,1993,122 min,"Drama, Thriller",7.1
 Kubo and the Two Strings,2016,101 min,"Animation, Action, Adventure",7.7
 La Vie en Rose,2007,140 min,"Biography, Drama, Music",7.6
 One Fine Day,1996,108 min,"Comedy, Drama, Romance",6.5
-Poetic Justice,1993,109 min,"Drama, Romance",6.0
+Poetic Justice,1993,109 min,"Drama, Romance",6
 Mr. Turner,2014,150 min,"Biography, Drama, History",6.8
 Philomena,2013,98 min,"Biography, Comedy, Drama",7.6
 Kate & Leopold,2001,118 min,"Comedy, Fantasy, Romance",6.4
@@ -765,8 +765,8 @@ One Night in Miami...,2020,114 min,Drama,7.1
 Trumbo,2015,124 min,"Biography, Drama",7.4
 The Squid and the Whale,2005,81 min,"Comedy, Drama",7.3
 Loving Vincent,2017,94 min,"Animation, Biography, Crime",7.8
-Io sono l'amore,2009,120 min,"Drama, Romance",7.0
-Mighty Aphrodite,1995,95 min,"Comedy, Drama, Fantasy",7.0
+Io sono l'amore,2009,120 min,"Drama, Romance",7
+Mighty Aphrodite,1995,95 min,"Comedy, Drama, Fantasy",7
 U-571,2000,116 min,"Action, War",6.6
 Ma Rainey's Black Bottom,2020,94 min,"Drama, Music",6.9
 My Week with Marilyn,2011,99 min,"Biography, Drama",6.9
@@ -784,7 +784,7 @@ Anomalisa,2015,90 min,"Animation, Comedy, Drama",7.2
 The Hurricane,1999,146 min,"Biography, Drama, Sport",7.6
 Four Good Days,2020,100 min,Drama,6.4
 If Beale Street Could Talk,2018,119 min,"Drama, Romance",7.1
-ParaNorman,2012,92 min,"Animation, Adventure, Comedy",7.0
+ParaNorman,2012,92 min,"Animation, Adventure, Comedy",7
 The Wife,2017,99 min,Drama,7.2
 Hitchcock,2012,98 min,"Biography, Drama, Romance",6.8
 The Iron Lady,2011,105 min,"Biography, Drama",6.4
@@ -808,7 +808,7 @@ Nell,1994,112 min,Drama,6.5
 Geronimo: An American Legend,1993,115 min,"Drama, History, Western",6.5
 The Kite Runner,2007,128 min,Drama,7.6
 Country Strong,2010,117 min,"Drama, Music",6.3
-Jimmy Neutron: Boy Genius,2001,82 min,"Animation, Action, Adventure",6.0
+Jimmy Neutron: Boy Genius,2001,82 min,"Animation, Action, Adventure",6
 Beginners,2010,105 min,"Comedy, Drama, Romance",7.2
 Hustle & Flow,2005,116 min,"Crime, Drama, Music",7.3
 The Grifters,1990,110 min,"Crime, Drama, Thriller",6.9
@@ -830,22 +830,22 @@ Toys,1992,118 min,"Adventure, Comedy, Drama",5.1
 Bright Star,2009,119 min,"Biography, Drama, Romance",6.9
 Mighty Joe Young,1998,114 min,"Action, Adventure, Family",5.7
 Michael Collins,1996,133 min,"Biography, Drama, Thriller",7.1
-Kundun,1997,134 min,"Biography, Drama, History",7.0
+Kundun,1997,134 min,"Biography, Drama, History",7
 Missing Link,2019,93 min,"Animation, Adventure, Comedy",6.7
 Deconstructing Harry,1997,96 min,Comedy,7.3
-Song of the Sea,2014,93 min,"Animation, Adventure, Drama",8.0
+Song of the Sea,2014,93 min,"Animation, Adventure, Drama",8
 Frost/Nixon,2008,122 min,"Biography, Drama, History",7.7
 Titus,1999,162 min,"Drama, History, Thriller",7.1
 Breakthrough,2019,116 min,"Biography, Drama",6.2
 Forushande,2016,124 min,Drama,7.7
 Under sandet,2015,100 min,"Drama, History, War",7.8
 Marvin's Room,1996,98 min,Drama,6.7
-45 Years,2015,91 min,"Drama, Romance",7.0
+45 Years,2015,91 min,"Drama, Romance",7
 The Cooler,2003,101 min,"Drama, Romance",6.9
 Shadow of the Vampire,2000,92 min,"Drama, Horror",6.9
 The Mirror Has Two Faces,1996,126 min,"Comedy, Drama, Romance",6.6
 Hereafter,2010,129 min,"Drama, Fantasy, Romance",6.5
-Persepolis,2007,96 min,"Animation, Biography, Drama",8.0
+Persepolis,2007,96 min,"Animation, Biography, Drama",8
 Far from Heaven,2002,107 min,"Drama, Romance",7.3
 Reversal of Fortune,1990,111 min,"Biography, Drama, Mystery",7.2
 Victoria & Abdul,2017,111 min,"Biography, Drama, History",6.8
@@ -861,17 +861,17 @@ Hoffa,1992,140 min,"Biography, Crime, Drama",6.6
 Shadowlands,1993,131 min,"Biography, Drama, Romance",7.4
 Marshall,2017,118 min,"Biography, Crime, Drama",7.2
 Anna and the King,1999,148 min,"Drama, History, Romance",6.7
-Pollock,2000,122 min,"Biography, Drama",7.0
+Pollock,2000,122 min,"Biography, Drama",7
 In America,2002,105 min,Drama,7.7
 Mrs Brown,1997,101 min,"Biography, Drama, History",7.2
-Mrs. Henderson Presents,2005,103 min,"Comedy, Drama, Music",7.0
+Mrs. Henderson Presents,2005,103 min,"Comedy, Drama, Music",7
 In the Valley of Elah,2007,121 min,"Crime, Drama, Mystery",7.2
 Green Card,1990,107 min,"Comedy, Drama, Romance",6.3
 Vera Drake,2004,125 min,"Crime, Drama",7.6
 Efter brylluppet,2006,120 min,Drama,7.7
 The Madness of King George,1994,110 min,"Biography, Comedy, Drama",7.2
 Enchanted April,1991,95 min,Drama,7.3
-The End of the Affair,1999,102 min,"Drama, Romance",7.0
+The End of the Affair,1999,102 min,"Drama, Romance",7
 Primary Colors,1998,143 min,"Comedy, Drama",6.7
 Beyond the Lights,2014,116 min,"Drama, Music, Romance",6.8
 Angels and Insects,1995,116 min,"Drama, Romance",6.8
@@ -880,13 +880,13 @@ The Portrait of a Lady,1996,144 min,"Drama, Romance",6.2
 The Contender,2000,126 min,"Drama, Thriller",6.9
 Ghosts of Mississippi,1996,130 min,"Drama, History",6.7
 Affliction,1997,114 min,"Drama, Mystery, Thriller",6.9
-Mirai no Mirai,2018,98 min,"Animation, Adventure, Drama",7.0
+Mirai no Mirai,2018,98 min,"Animation, Adventure, Drama",7
 The Savages,2007,114 min,"Comedy, Drama",7.1
 Mandela: Long Walk to Freedom,2013,141 min,"Biography, Drama, History",7.1
 Angela's Ashes,1999,145 min,"Biography, Drama",7.3
-The Quiet American,2002,101 min,"Drama, Romance, Thriller",7.0
+The Quiet American,2002,101 min,"Drama, Romance, Thriller",7
 The Secret of Kells,2009,71 min,"Animation, Adventure, Family",7.6
-Happy-Go-Lucky,2008,118 min,"Comedy, Drama, Romance",7.0
+Happy-Go-Lucky,2008,118 min,"Comedy, Drama, Romance",7
 Der Baader Meinhof Komplex,2008,150 min,"Action, Biography, Crime",7.3
 No Man's Land,2001,98 min,"Comedy, Drama, War",7.9
 For the Boys,1991,138 min,"Comedy, Drama, Music",6.3
@@ -894,16 +894,16 @@ The Tempest,2010,110 min,"Comedy, Drama, Fantasy",5.3
 American Splendor,2003,101 min,"Biography, Comedy, Drama",7.4
 The Wings of the Dove,1997,102 min,"Drama, Romance",7.1
 Babe: Pig in the City,1998,97 min,"Adventure, Comedy, Drama",5.8
-Iris,2001,91 min,"Biography, Drama, Romance",7.0
+Iris,2001,91 min,"Biography, Drama, Romance",7
 Blue Sky,1994,101 min,"Drama, Romance",6.4
 Away from Her,2006,110 min,Drama,7.5
 El abrazo de la serpiente,2015,125 min,"Adventure, Biography, Drama",7.8
 Topsy-Turvy,1999,160 min,"Biography, Comedy, Drama",7.3
 My Family,1995,128 min,Drama,7.2
-Beloved,1998,172 min,"Drama, History, Horror",6.0
+Beloved,1998,172 min,"Drama, History, Horror",6
 Another Year,2010,129 min,"Comedy, Drama",7.3
 Hamlet,1990,135 min,Drama,6.7
-Hundraåringen som klev ut genom fönstret och försvann,2013,114 min,"Adventure, Comedy",7.0
+Hundraåringen som klev ut genom fönstret och försvann,2013,114 min,"Adventure, Comedy",7
 Transamerica,2005,103 min,"Adventure, Comedy, Drama",7.4
 Mediterraneo,1991,96 min,"Comedy, Drama, War",7.4
 Gods and Monsters,1998,105 min,"Biography, Drama",7.4
@@ -939,16 +939,16 @@ Avalon,1990,128 min,Drama,7.2
 L'illusionniste,2010,90 min,"Animation, Drama, Fantasy",7.5
 Havana,1990,144 min,"Drama, Romance, War",6.1
 Barney's Version,2010,134 min,"Comedy, Drama",7.3
-Being Julia,2004,104 min,"Comedy, Drama, Romance",7.0
-Pieces of April,2003,80 min,"Comedy, Drama",7.0
+Being Julia,2004,104 min,"Comedy, Drama, Romance",7
+Pieces of April,2003,80 min,"Comedy, Drama",7
 Venus,2006,95 min,"Comedy, Drama, Romance",7.1
 Så som i himmelen,2004,133 min,"Comedy, Drama, Music",7.5
 Snow Falling on Cedars,1999,127 min,"Drama, Mystery, Romance",6.8
 Il divo,2008,110 min,"Biography, Drama",7.2
 Restoration,1995,117 min,"Biography, Drama, History",6.6
-Ulee's Gold,1997,113 min,Drama,7.0
+Ulee's Gold,1997,113 min,Drama,7
 Music of the Heart,1999,124 min,"Drama, Music",6.8
-Little Voice,1998,97 min,"Comedy, Drama, Music",7.0
+Little Voice,1998,97 min,"Comedy, Drama, Music",7
 The Last Station,2009,112 min,"Biography, Drama, Romance",6.9
 Oscar and Lucinda,1997,132 min,"Drama, Romance",6.6
 Xi yan,1993,106 min,"Comedy, Drama, Romance",7.6
@@ -957,8 +957,8 @@ Passion Fish,1992,135 min,Drama,7.3
 Frozen River,2008,97 min,"Crime, Drama",7.1
 Alice,1990,106 min,"Comedy, Romance",6.6
 Hilary and Jackie,1998,121 min,"Biography, Drama, Music",7.3
-The Affair of the Necklace,2001,118 min,"Drama, History, Romance",6.0
-Afterglow,1997,119 min,"Comedy, Drama, Romance",6.0
+The Affair of the Necklace,2001,118 min,"Drama, History, Romance",6
+Afterglow,1997,119 min,"Comedy, Drama, Romance",6
 The Mambo Kings,1992,104 min,"Drama, Music",6.4
 Monsieur Lazhar,2011,95 min,"Comedy, Drama",7.5
 Ernest et Célestine,2012,80 min,"Animation, Adventure, Comedy",7.8
@@ -970,7 +970,7 @@ Nirgendwo in Afrika,2001,141 min,"Biography, Drama, History",7.5
 Vatel,2000,103 min,"Biography, Drama, Romance",6.6
 Solomon and Gaenor,1999,105 min,"Drama, Romance",6.8
 Mr. & Mrs. Bridge,1990,126 min,Drama,6.6
-Krigen,2015,115 min,"Crime, Drama, Thriller",7.0
+Krigen,2015,115 min,"Crime, Drama, Thriller",7
 Paradise Now,2005,91 min,"Crime, Drama, Thriller",7.4
 Theeb,2014,100 min,"Adventure, Drama, Thriller",7.2
 Love Field,1992,105 min,Drama,6.5
