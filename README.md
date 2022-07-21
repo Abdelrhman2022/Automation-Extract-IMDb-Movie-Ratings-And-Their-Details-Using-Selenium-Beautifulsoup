@@ -9,6 +9,16 @@
  - Genre
  - Rating
  ```
+ 
+ 
+# Demo Video 
+[![Automation Extract IMDb Movie Ratings And Their Details](https://img.youtube.com/vi/Ag2tDn8BGXk/0.jpg)](https://www.youtube.com/watch?v=Ag2tDn8BGXk)
+ 
+
+  
+
+ 
+ 
 # Modules Needed:
 Below is the list of modules required to scrape from IMDB.
 
